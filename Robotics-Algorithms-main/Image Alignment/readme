@@ -1,0 +1,16 @@
+Steps to run code:
+
+$ python3 main.py
+$ directory**
+<displacements outputed>
+
+
+**all images are present in 'images' folder within lab3. When entering directory, please end with a slash
+Example: /home/fall/lab3/images/
+
+
+Unaligned (color) images, SSD, and NCC images are all saved in the lab3 folder. Note that the input images are processed randomly, not in order (1-6).
+__________________________________________
+
+Libraries required: PIL, numpy, sys, os, pathlib
+
