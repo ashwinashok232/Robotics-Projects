@@ -7,4 +7,5 @@ Task 2 - Images are comapred using ORB feature matching to find adjacent images 
 
 ## Outputs
 t1.py outputs stitched images t1_1.png and t1_2.png (in images folder) with the foreground of t1_t.png removed.
+
 t2.py outputs panorama of t2_<n>.png images. Images folder contains 6 images, but more can be used.
