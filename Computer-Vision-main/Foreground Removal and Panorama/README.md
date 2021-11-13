@@ -2,6 +2,7 @@
 
 ## Description
 Task 1 - Foreground detection using ORB features and brute force matching. Perspective transformation is done to overlap foreground region of one image.
+
 Task 2 - Images are comapred using ORB feature matching to find adjacent images (highest overlap). Finally, the images are warped by doing a perspective transformation based on their homography to be aligned with one another, and are stitched together.
 
 ## Outputs
